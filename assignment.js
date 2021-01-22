@@ -1,4 +1,4 @@
-//
+//https://github.com/rasadulrashed/assignment-third
 
 //first kilometer to meter convert
 
@@ -16,7 +16,9 @@ function kilometerToMeter(kilometer) {
 var result = kilometerToMeter(123);
 console.log(result);
 
+
 //second total amout of electroic porduct
+
 
 function budgetCalculator(watch, mobile, laptop) {
 
@@ -28,7 +30,10 @@ var result = budgetCalculator(2, 4, 1);
 console.log(result);
 
 
+
 // Third 
+
+
 
 function hotelCost(day) {
     var totalCost = 0;
@@ -59,7 +64,9 @@ function hotelCost(day) {
 var totalAmount = hotelCost(11);
 console.log(totalAmount);
 
+
 //fourth
+
 
 function megaFriend(arrayName) {
 
